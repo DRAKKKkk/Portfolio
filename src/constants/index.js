@@ -58,11 +58,11 @@ export const navLinks = [
   
   export const myProjects = [
     {
-      title: 'Podcastr - AI Podcast Platform',
-      desc: 'Podcastr is a revolutionary Software-as-a-Service platform that transforms the way podcasts are created. With advanced AI-powered features like text-to-multiple-voices functionality, it allows creators to generate diverse voiceovers from a single text input.',
+      title: 'iPhone 15 Pro - Premium Product Showcase',
+      desc: "A meticulously crafted Apple iPhone product page clone that delivers an authentic brand experience with fluid animations and responsive design. This project demonstrates advanced frontend techniques to recreate Apple's signature aesthetic and user experience.",
       subdesc:
-        'Built as a unique Software-as-a-Service app with Next.js 14, Tailwind CSS, TypeScript, Framer Motion and Convex, Podcastr is designed for optimal performance and scalability.',
-      href: 'https://www.youtube.com/watch?v=zfAb95tJvZQ',
+            "Built with React.js, TypeScript, Tailwind CSS, and enhanced with GSAP/Framer Motion animations, this showcase leverages Vite for lightning-fast builds and optimal performance across all devices.",
+      href: 'https://iphone-teal.vercel.app/',
       texture: '/textures/project/project1.mp4',
       logo: '/assets/project-logo1.png',
       logoStyle: {
@@ -95,11 +95,10 @@ export const navLinks = [
       ],
     },
     {
-      title: 'LiveDoc - Real-Time Google Docs Clone',
-      desc: 'LiveDoc is a powerful collaborative app that elevates the capabilities of real-time document editing. As an enhanced version of Google Docs, It supports millions of collaborators simultaneously, ensuring that every change is captured instantly and accurately.',
-      subdesc:
-        'With LiveDoc, users can experience the future of collaboration, where multiple contributors work together in real time without any lag, by using Next.js and Liveblocks newest features.',
-      href: 'https://www.youtube.com/watch?v=y5vE8y_f_OM',
+      title: 'Award-Winning Website Clone - Immersive Experience',
+      desc: "A visually stunning recreation of an award-winning website that pushes the boundaries of interactive web design. This project delivers an ultra-engaging user experience with cinematic scroll animations and fluid transitions that captivate visitors.",
+      subdesc: "Built with React.js, GSAP Animation, and Tailwind CSS, this clone leverages Vite's lightning-fast tooling to achieve buttery-smooth 60fps animations and instant loading interactions.",
+      href: 'https://gaming-website-k8i5-navy.vercel.app/',
       texture: '/textures/project/project2.mp4',
       logo: '/assets/project-logo2.png',
       logoStyle: {
@@ -132,11 +131,10 @@ export const navLinks = [
       ],
     },
     {
-      title: 'CarePulse - Health Management System',
-      desc: 'An innovative healthcare platform designed to streamline essential medical processes. It simplifies patient registration, appointment scheduling, and medical record management, providing a seamless experience for both healthcare providers and patients.',
-      subdesc:
-        'With a focus on efficiency, CarePulse integrantes complex forms and SMS notifications, by using Next.js, Appwrite, Twillio and Sentry that enhance operational workflows.',
-      href: 'https://www.youtube.com/watch?v=lEflo_sc82g',
+     title: 'SnapGram - Modern Social Media Platform',
+      desc: "SnapGram revolutionizes social networking with seamless content sharing and real-time interactions. As a full-featured platform, it supports thousands of simultaneous users with instant post updates, comments, and notifications - creating a truly engaging community experience.",
+      subdesc:" Built with React, TypeScript, and Appwrite's powerful backend services, SnapGram delivers secure authentication, media uploads, and scalable data management through optimized API integrations and React Query caching.",
+      href: 'https://snap-gram-red.vercel.app/',
       texture: '/textures/project/project3.mp4',
       logo: '/assets/project-logo3.png',
       logoStyle: {
@@ -170,80 +168,80 @@ export const navLinks = [
         },
       ],
     },
-    {
-      title: 'Horizon - Online Banking Platform',
-      desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
-      subdesc:
-        'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
-      href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
-      texture: '/textures/project/project4.mp4',
-      logo: '/assets/project-logo4.png',
-      logoStyle: {
-        backgroundColor: '#0E1F38',
-        border: '0.2px solid #0E2D58',
-        boxShadow: '0px 0px 60px 0px #2F67B64D',
-      },
-      spotlight: '/assets/spotlight4.png',
-      tags: [
-        {
-          id: 1,
-          name: 'React.js',
-          path: '/assets/react.svg',
-        },
-        {
-          id: 2,
-          name: 'TailwindCSS',
-          path: 'assets/tailwindcss.png',
-        },
-        {
-          id: 3,
-          name: 'TypeScript',
-          path: '/assets/typescript.png',
-        },
-        {
-          id: 4,
-          name: 'Framer Motion',
-          path: '/assets/framer.png',
-        },
-      ],
-    },
-    {
-      title: 'Imaginify - AI Photo Manipulation App',
-      desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
-      subdesc:
-        'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
-      href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
-      texture: '/textures/project/project5.mp4',
-      logo: '/assets/project-logo5.png',
-      logoStyle: {
-        backgroundColor: '#1C1A43',
-        border: '0.2px solid #252262',
-        boxShadow: '0px 0px 60px 0px #635BFF4D',
-      },
-      spotlight: '/assets/spotlight5.png',
-      tags: [
-        {
-          id: 1,
-          name: 'React.js',
-          path: '/assets/react.svg',
-        },
-        {
-          id: 2,
-          name: 'TailwindCSS',
-          path: 'assets/tailwindcss.png',
-        },
-        {
-          id: 3,
-          name: 'TypeScript',
-          path: '/assets/typescript.png',
-        },
-        {
-          id: 4,
-          name: 'Framer Motion',
-          path: '/assets/framer.png',
-        },
-      ],
-    },
+    // {
+    //   title: 'Horizon - Online Banking Platform',
+    //   desc: 'Horizon is a comprehensive online banking platform that offers users a centralized finance management dashboard. It allows users to connect multiple bank accounts, monitor real-time transactions, and seamlessly transfer money to other users.',
+    //   subdesc:
+    //     'Built with Next.js 14 Appwrite, Dwolla and Plaid, Horizon ensures a smooth and secure banking experience, tailored to meet the needs of modern consumers.',
+    //   href: 'https://www.youtube.com/watch?v=PuOVqP_cjkE',
+    //   texture: '/textures/project/project4.mp4',
+    //   logo: '/assets/project-logo4.png',
+    //   logoStyle: {
+    //     backgroundColor: '#0E1F38',
+    //     border: '0.2px solid #0E2D58',
+    //     boxShadow: '0px 0px 60px 0px #2F67B64D',
+    //   },
+    //   spotlight: '/assets/spotlight4.png',
+    //   tags: [
+    //     {
+    //       id: 1,
+    //       name: 'React.js',
+    //       path: '/assets/react.svg',
+    //     },
+    //     {
+    //       id: 2,
+    //       name: 'TailwindCSS',
+    //       path: 'assets/tailwindcss.png',
+    //     },
+    //     {
+    //       id: 3,
+    //       name: 'TypeScript',
+    //       path: '/assets/typescript.png',
+    //     },
+    //     {
+    //       id: 4,
+    //       name: 'Framer Motion',
+    //       path: '/assets/framer.png',
+    //     },
+    //   ],
+    // },
+    // {
+    //   title: 'Imaginify - AI Photo Manipulation App',
+    //   desc: 'Imaginify is a groundbreaking Software-as-a-Service application that empowers users to create stunning photo manipulations using AI technology. With features like AI-driven image editing, a payments system, and a credits-based model.',
+    //   subdesc:
+    //     'Built with Next.js 14, Cloudinary AI, Clerk, and Stripe, Imaginify combines cutting-edge technology with a user-centric approach. It can be turned into a side income or even a full-fledged business.',
+    //   href: 'https://www.youtube.com/watch?v=Ahwoks_dawU',
+    //   texture: '/textures/project/project5.mp4',
+    //   logo: '/assets/project-logo5.png',
+    //   logoStyle: {
+    //     backgroundColor: '#1C1A43',
+    //     border: '0.2px solid #252262',
+    //     boxShadow: '0px 0px 60px 0px #635BFF4D',
+    //   },
+    //   spotlight: '/assets/spotlight5.png',
+    //   tags: [
+    //     {
+    //       id: 1,
+    //       name: 'React.js',
+    //       path: '/assets/react.svg',
+    //     },
+    //     {
+    //       id: 2,
+    //       name: 'TailwindCSS',
+    //       path: 'assets/tailwindcss.png',
+    //     },
+    //     {
+    //       id: 3,
+    //       name: 'TypeScript',
+    //       path: '/assets/typescript.png',
+    //     },
+    //     {
+    //       id: 4,
+    //       name: 'Framer Motion',
+    //       path: '/assets/framer.png',
+    //     },
+    //   ],
+    // },
   ];
   
   export const calculateSizes = (isSmall, isMobile, isTablet) => {
