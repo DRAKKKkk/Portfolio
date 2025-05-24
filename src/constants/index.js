@@ -136,7 +136,7 @@ export const navLinks = [
       subdesc:" Built with React, TypeScript, and Appwrite's powerful backend services, SnapGram delivers secure authentication, media uploads, and scalable data management through optimized API integrations and React Query caching.",
       href: 'https://snap-gram-red.vercel.app/',
       texture: '/textures/project/project3.mp4',
-      logo: '/assets/logo.svg',
+      logo: '/assets/favicon.ico',
       logoStyle: {
         backgroundColor: '#60f5a1',
         background:
