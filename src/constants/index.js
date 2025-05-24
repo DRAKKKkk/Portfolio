@@ -89,8 +89,13 @@ export const navLinks = [
         },
         {
           id: 4,
-          name: 'Framer Motion',
-          path: '/assets/framer.png',
+          name: 'GSAP Animation',
+          path: '/assets/gsap.png',
+        },
+        {
+          id: 5,
+          name: 'Vite',
+          path: '/assets/Vitejs-logo.svg',
         },
       ],
     },
@@ -125,8 +130,8 @@ export const navLinks = [
         },
         {
           id: 4,
-          name: 'Framer Motion',
-          path: '/assets/framer.png',
+          name: 'GSAP Animation',
+          path: '/assets/gsap.png',
         },
       ],
     },
@@ -163,8 +168,13 @@ export const navLinks = [
         },
         {
           id: 4,
-          name: 'Framer Motion',
-          path: '/assets/framer.png',
+          name: 'Appwrite',
+          path: '/assets/logo.jpg',
+        },
+        {
+          id: 5,
+          name: 'Vite',
+          path: '/assets/Vitejs-logo.svg',
         },
       ],
     },
