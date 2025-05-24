@@ -64,7 +64,7 @@ export const navLinks = [
             "Built with React.js, TypeScript, Tailwind CSS, and enhanced with GSAP/Framer Motion animations, this showcase leverages Vite for lightning-fast builds and optimal performance across all devices.",
       href: 'https://iphone-teal.vercel.app/',
       texture: '/textures/project/project1.mp4',
-      logo: '/assets/project-logo1.png',
+      logo: '/assets/apple.svg',
       logoStyle: {
         backgroundColor: '#2A1816',
         border: '0.2px solid #36201D',
@@ -100,7 +100,7 @@ export const navLinks = [
       subdesc: "Built with React.js, GSAP Animation, and Tailwind CSS, this clone leverages Vite's lightning-fast tooling to achieve buttery-smooth 60fps animations and instant loading interactions.",
       href: 'https://gaming-website-k8i5-navy.vercel.app/',
       texture: '/textures/project/project2.mp4',
-      logo: '/assets/project-logo2.png',
+      logo: '/assets/logo.png',
       logoStyle: {
         backgroundColor: '#13202F',
         border: '0.2px solid #17293E',
@@ -136,7 +136,7 @@ export const navLinks = [
       subdesc:" Built with React, TypeScript, and Appwrite's powerful backend services, SnapGram delivers secure authentication, media uploads, and scalable data management through optimized API integrations and React Query caching.",
       href: 'https://snap-gram-red.vercel.app/',
       texture: '/textures/project/project3.mp4',
-      logo: '/assets/project-logo3.png',
+      logo: '/assets/logo.svg',
       logoStyle: {
         backgroundColor: '#60f5a1',
         background:
